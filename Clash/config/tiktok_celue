@@ -9,7 +9,7 @@
 ;增强中国IP段：支持
 ;增强国外GFW：支持
 
-ruleset=🎵 TT直播,rules/ACL4SSR/Clash/Ruleset/TikTok.list
+ruleset=🎵 TT直播,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/Ruleset/TikTok.list
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
@@ -20,11 +20,10 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-ruleset=🛑 全球拦截,rules/ACL4SSR/Clash/BanAD.list
-ruleset=🛑 全球拦截,rules/ACL4SSR/Clash/BanProgramAD.list
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/GoogleCN.list
-ruleset=🎯 全球直连,rules/ACL4SSR/Clash/Ruleset/SteamCN.list
-ruleset=🚀 GFW,rules/ACL4SSR/Clash/ProxyGFWlist.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=🚀 GFW,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/ProxyGFWlist.list
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
