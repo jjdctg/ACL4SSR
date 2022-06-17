@@ -1,6 +1,8 @@
 # 内容：TikTok
 # 数量：11条
 USER-AGENT,TikTok*
+DOMAIN-KEYWORD,bytedapm
+DOMAIN-KEYWORD,ttlivecdn
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,bytegoofy
 DOMAIN-SUFFIX,byteoversea.com
