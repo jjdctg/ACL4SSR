@@ -1,7 +1,6 @@
 [custom]
 ;不要随意改变关键字，否则会导致出错
 ;acl4SSR规则
-
 ;去广告：支持
 ;自动测速：支持
 ;微软分流：支持
@@ -37,17 +36,17 @@ custom_proxy_group=👆 手动切换`select`.*
 custom_proxy_group=🎵 TT直播`select`[]🔯 故障转移`[]👆 手动切换`[]♻️ 自动选择`.*
 custom_proxy_group=📺 netflix`select`.*
 custom_proxy_group=🦇 巴哈姆特`select`.*
-custom_proxy_group=🌍 国外媒体`select`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]垃圾场`[]DIRECT
+custom_proxy_group=🌍 国外媒体`select`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]MX 墨西哥`[]👆 手动切换`[]DIRECT
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]👆 手动切换
 custom_proxy_group=👬 国外社交`select`[]MX 墨西哥`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
-custom_proxy_group=📢 谷歌服务`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]垃圾场`[]DIRECT
-custom_proxy_group=🚀 GFW`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]垃圾场`[]DIRECT
+custom_proxy_group=📢 谷歌服务`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]DIRECT
+custom_proxy_group=🚀 GFW`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]DIRECT
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🔯 故障转移`fallback`[]🇭🇰 香港节点`[]TT 中东`[]🇨🇳 台湾节点`http://www.gstatic.com/generate_204`180
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]👆 手动切换`[]♻️ 自动选择
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🖱️ 远控`select`[]DIRECT`[]👆 手动切换
-custom_proxy_group=🐟 漏网之鱼`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]垃圾场`[]DIRECT
+custom_proxy_group=🐟 漏网之鱼`select`[]♻️ 自动选择`[]👆 手动切换`[]🔯 故障转移`[]DIRECT
 custom_proxy_group=TT 中东`fallback`(迪拜|阿联酋|中东|阿拉伯|沙特|利雅得|伊朗|科威特|阿曼|土耳其|以色列|巴勒斯坦|也门)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇭🇰 香港节点`fallback`(港|HK|Hong Kong)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇨🇳 台湾节点`url-test`(台|新北|彰化|TW|Taiwan)`http://www.gstatic.com/generate_204`300,,50
