@@ -27,3 +27,8 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
+# 内容：snapchat
+# 数量：3条
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snaptu.com
+DOMAIN-SUFFIX,sndcdn.com
