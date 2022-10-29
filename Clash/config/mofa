@@ -1,3 +1,7 @@
+custom_proxy_group=🌏 国外网站`select`[]🔯 故障转移
+custom_proxy_group=🌏 国内网站`select`[]DIRECT
+custom_proxy_group=🔯 故障转移`http://www.gstatic.com/generate_204`180
+
 ruleset=🌏 国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🌏 国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🌏 国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
@@ -9,3 +13,5 @@ ruleset=🌏 国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🌏 国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 ruleset=🌏 国内网站,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/Ruleset/guoneibuchong.list
 ruleset=🌏 国外网站,https://raw.githubusercontent.com/jjdctg/ACL4SSR/master/Clash/Ruleset/mofaguowaibuchong
+enable_rule_generator=true
+overwrite_original_rules=true
