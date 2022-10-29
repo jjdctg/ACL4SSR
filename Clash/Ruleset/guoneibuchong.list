@@ -1,7 +1,3 @@
-#imtoken钱包
-DOMAIN-KEYWORD,improd
-DOMAIN-KEYWORD,token.im
-
 #frp控制和向日葵
 DOMAIN-KEYWORD,frp
 DOMAIN-KEYWORD,oray
