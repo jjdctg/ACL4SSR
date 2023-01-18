@@ -32,7 +32,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=👆 手动切换`select`.*
 custom_proxy_group=🎵 TT直播`select`[]MX 墨西哥B`[]MX 墨西哥`[]🔯 故障转移`[]👆 手动切换`[]♻️ 自动选择`.*
-custom_proxy_group=👬 FB`select`[]MX 墨西哥B`[]MX 墨西哥`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
+custom_proxy_group=👬 FB`select`[]us 原生IP`[]MX 墨西哥B`[]MX 墨西哥`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
 custom_proxy_group=👬 INS`select`[]MX 墨西哥B`[]MX 墨西哥`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
 custom_proxy_group=👬 Kwai`select`[]MX 墨西哥B`[]MX 墨西哥`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
 custom_proxy_group=🌍 国外媒体`select`[]MX 墨西哥B`[]MX 墨西哥`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
