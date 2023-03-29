@@ -34,7 +34,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=👆 手动切换`select`.*
 custom_proxy_group=🎵 TT直播`select`[]家宽`[]👆 手动切换`[]♻️ 自动选择`.*
-custom_proxy_group=📺 netflix`select`.*[]🇸🇬 新加坡流媒体`[]🇸🇬 🇭🇰 香港流媒体
+custom_proxy_group=📺 netflix`select`.*[]🇸🇬 新加坡流媒体`[]🇭🇰 香港流媒体
 custom_proxy_group=🦇 巴哈姆特`select`.*
 custom_proxy_group=🌍 国外媒体`select`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]👆 手动切换`[]DIRECT
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]👆 手动切换
