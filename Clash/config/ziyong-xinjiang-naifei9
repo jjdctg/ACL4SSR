@@ -51,7 +51,6 @@ custom_proxy_group=📢 谷歌服务`select`[]♻️ 自动选择`[]👆 手动�
 custom_proxy_group=🚀 GFW`select`[]♻️ 自动选择`[]👆 手动切换`[]普通`[]家宽`[]DIRECT
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]👆 手动切换`[]♻️ 自动选择
-custom_proxy_group=🌏 内网代理`select`[]♻️ 自动选择`[]👆 手动切换`[]DIRECT
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🖱️ 远控`select`[]DIRECT`[]👆 手动切换
 custom_proxy_group=🐟 漏网之鱼`select`[]♻️ 自动选择`[]👆 手动切换`[]普通`[]家宽`[]DIRECT
