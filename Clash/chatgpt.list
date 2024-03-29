@@ -12,4 +12,9 @@ DOMAIN-SUFFIX,stripe.com
 #Gemini谷歌
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,colab
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,developerprofiles
