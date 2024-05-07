@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,chat
+DOMAIN-KEYWORD,dify
+DOMAIN-SUFFIX,cloud.dify.ai
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
